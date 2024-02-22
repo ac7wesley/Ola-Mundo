@@ -4,4 +4,4 @@ Primeiro repositório Git e GitHub
 
 Repositório criado para fins de estudos do Git e GitHub.
 
-Linhas alterada diretamente no site do GitHub.
+Obrigado por você esta aqui, att: ac7wesley.

@@ -15,4 +15,4 @@ Liguagem de Markdown.
 Lista criada com Markdown.
 ***
 
-Obrigado por **você** esta aqui, att: *ac7wesley*.
+Obrigado por **você** esta aqui, Acesse meu [GitHub Click Aqui](https://github.com/ac7wesley), *ac7wesley*.
